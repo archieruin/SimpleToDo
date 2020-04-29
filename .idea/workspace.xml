@@ -10,7 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4f9cb40-8c6c-45ef-a724-f65189eb64da" name="Default Changelist" comment="" />
+    <list default="true" id="b4f9cb40-8c6c-45ef-a724-f65189eb64da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SimpleToDo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SimpleToDo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/todo/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/todo/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/todo/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/todo/todo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/todo/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/todo/todo/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -37,22 +45,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/todo/manage.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/todo/todo/settings.py" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
     <property name="ts.external.directory.path" value="D:\Programs\JetBrains\Toolbox\apps\PyCharm-P\ch-0\201.6668.115\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\SimpleToDo\SimpleToDo\backend" />
+      <recent name="D:\Projects\SimpleToDo\SimpleToDo\backend\todo\api\templates" />
+      <recent name="D:\Projects\SimpleToDo\SimpleToDo\backend\todo\api\tamplates\api" />
+      <recent name="D:\Projects\SimpleToDo\SimpleToDo\backend\todo\api" />
+      <recent name="D:\Projects\SimpleToDo\SimpleToDo\backend\todo\tamplates" />
       <recent name="D:\Projects\SimpleToDo\SimpleToDo\backend\todo" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.Run Frontend">
+  <component name="RunManager" selected="Django Server.Run Backend">
     <configuration name="Make migrate" type="PythonConfigurationType" factoryName="Python">
       <module name="SimpleToDo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +194,7 @@
       <workItem from="1588047758689" duration="12992000" />
       <workItem from="1588077595514" duration="18479000" />
       <workItem from="1588152308314" duration="4109000" />
+      <workItem from="1588156483162" duration="2735000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1588156234556</created>
@@ -212,6 +226,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="30" key="#Run_Backend" timestamp="1588157891765">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="392" y="30" key="#Run_Backend/0.30.1366.738@0.30.1366.738" timestamp="1588157891765" />
     <state x="155" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588153852888">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
@@ -221,40 +239,40 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="568" y="142" key="EnvironmentVariablesDialog/0.30.1366.738@0.30.1366.738" timestamp="1588153379123" />
-    <state x="447" y="217" key="FileChooserDialogImpl" timestamp="1588154325660">
+    <state x="447" y="217" key="FileChooserDialogImpl" timestamp="1588157883613">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="419" y="282" key="FileChooserDialogImpl/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588048215552" />
-    <state x="447" y="217" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1588154325660" />
+    <state x="447" y="217" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1588157883613" />
     <state x="556" y="297" key="Github.ShareDialog" timestamp="1588154354027">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="556" y="297" key="Github.ShareDialog/0.30.1366.738@0.30.1366.738" timestamp="1588154354027" />
-    <state width="1323" height="159" key="GridCell.Tab.0.bottom" timestamp="1588156478175">
+    <state width="1323" height="256" key="GridCell.Tab.0.bottom" timestamp="1588159338934">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.0.bottom/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588060718902" />
-    <state width="1323" height="159" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1588156478175" />
-    <state width="1323" height="159" key="GridCell.Tab.0.center" timestamp="1588156478174">
+    <state width="1323" height="256" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1588159338934" />
+    <state width="1323" height="256" key="GridCell.Tab.0.center" timestamp="1588159338933">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.0.center/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588060718902" />
-    <state width="1323" height="159" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1588156478174" />
-    <state width="1323" height="159" key="GridCell.Tab.0.left" timestamp="1588156478174">
+    <state width="1323" height="256" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1588159338933" />
+    <state width="1323" height="256" key="GridCell.Tab.0.left" timestamp="1588159338933">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.0.left/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588060718902" />
-    <state width="1323" height="159" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1588156478174" />
-    <state width="1323" height="159" key="GridCell.Tab.0.right" timestamp="1588156478174">
+    <state width="1323" height="256" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1588159338933" />
+    <state width="1323" height="256" key="GridCell.Tab.0.right" timestamp="1588159338934">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.0.right/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588060718902" />
-    <state width="1323" height="159" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1588156478174" />
-    <state x="150" y="58" key="SettingsEditor" timestamp="1588078395456">
+    <state width="1323" height="256" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1588159338934" />
+    <state x="150" y="58" key="SettingsEditor" timestamp="1588157889136">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="141" y="172" key="SettingsEditor/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588048038756" />
-    <state x="150" y="58" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1588078395456" />
+    <state x="150" y="58" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1588157889136" />
     <state x="275" y="132" key="Vcs.Push.Dialog.v2" timestamp="1588156362489">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
