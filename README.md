@@ -1,4 +1,4 @@
-### Setup:
+## Setup Backend:
 ```
 cd backend/todo
 python -m venv venv
@@ -17,3 +17,6 @@ python manage.py createsuperuser
 ```
 
 #### Run: `python manage.py runserver`
+
+## Setup Frontend:
+`TODO`
