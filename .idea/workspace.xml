@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4f9cb40-8c6c-45ef-a724-f65189eb64da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b9cRNNeJpPBX9WXJfPxmr5HQIS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/todo/manage.py" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="D:\Programs\JetBrains\Toolbox\apps\PyCharm-P\ch-0\201.6668.115\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\SimpleToDo\SimpleToDo\backend" />
+      <recent name="D:\Projects\SimpleToDo\SimpleToDo\backend\todo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Run Frontend">
+    <configuration name="Make migrate" type="PythonConfigurationType" factoryName="Python">
+      <module name="SimpleToDo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Projects\SimpleToDo\SimpleToDo\backend\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/todo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/todo/manage.py" />
+      <option name="PARAMETERS" value="migrate" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Make migrations" type="PythonConfigurationType" factoryName="Python">
+      <module name="SimpleToDo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Projects\SimpleToDo\SimpleToDo\backend\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/todo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/todo/manage.py" />
+      <option name="PARAMETERS" value="makemigrations" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Backend" type="Python.DjangoServer" factoryName="Django server">
+      <module name="SimpleToDo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="todo.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Projects\SimpleToDo\SimpleToDo\backend\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Frontend" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/frontend/todo/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.Run Backend" />
+      <item itemvalue="npm.Run Frontend" />
+      <item itemvalue="Python.Make migrations" />
+      <item itemvalue="Python.Make migrate" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4f9cb40-8c6c-45ef-a724-f65189eb64da" name="Default Changelist" comment="" />
+      <created>1588047741428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588047741428</updated>
+      <workItem from="1588047758689" duration="12992000" />
+      <workItem from="1588077595514" duration="18479000" />
+      <workItem from="1588152308314" duration="4109000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1588156234556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588156234556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="155" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588153852888">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="110" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588048250126" />
+    <state x="155" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1588153852887" />
+    <state x="568" y="142" key="EnvironmentVariablesDialog" timestamp="1588153379123">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="568" y="142" key="EnvironmentVariablesDialog/0.30.1366.738@0.30.1366.738" timestamp="1588153379123" />
+    <state x="447" y="217" key="FileChooserDialogImpl" timestamp="1588154325660">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="419" y="282" key="FileChooserDialogImpl/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588048215552" />
+    <state x="447" y="217" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1588154325660" />
+    <state x="556" y="297" key="Github.ShareDialog" timestamp="1588154354027">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="556" y="297" key="Github.ShareDialog/0.30.1366.738@0.30.1366.738" timestamp="1588154354027" />
+    <state width="1323" height="159" key="GridCell.Tab.0.bottom" timestamp="1588156478175">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588060718902" />
+    <state width="1323" height="159" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1588156478175" />
+    <state width="1323" height="159" key="GridCell.Tab.0.center" timestamp="1588156478174">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.center/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588060718902" />
+    <state width="1323" height="159" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1588156478174" />
+    <state width="1323" height="159" key="GridCell.Tab.0.left" timestamp="1588156478174">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.left/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588060718902" />
+    <state width="1323" height="159" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1588156478174" />
+    <state width="1323" height="159" key="GridCell.Tab.0.right" timestamp="1588156478174">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.right/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588060718902" />
+    <state width="1323" height="159" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1588156478174" />
+    <state x="150" y="58" key="SettingsEditor" timestamp="1588078395456">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="141" y="172" key="SettingsEditor/-1366.286.1366.738/0.30.1280.994@0.30.1280.994" timestamp="1588048038756" />
+    <state x="150" y="58" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1588078395456" />
+    <state x="275" y="132" key="Vcs.Push.Dialog.v2" timestamp="1588156362489">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="275" y="132" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1588156362489" />
+    <state x="515" y="133" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1588155277000">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="515" y="133" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.30.1366.738@0.30.1366.738" timestamp="1588155277000" />
+    <state x="390" y="134" width="585" height="530" key="find.popup" timestamp="1588095267027">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="390" y="134" width="585" height="530" key="find.popup/0.30.1366.738@0.30.1366.738" timestamp="1588095267027" />
+    <state x="483" y="300" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1588156103643">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="483" y="300" key="git4idea.remote.GitConfigureRemotesDialog/0.30.1366.738@0.30.1366.738" timestamp="1588156103643" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588155282068">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1588155282068" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/backend/todo/api/serializers.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SimpleToDo$Make_migrations.coverage" NAME="Make migrations Coverage Results" MODIFIED="1588051006368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/todo" />
+    <SUITE FILE_PATH="coverage/SimpleToDo$Make_migrate.coverage" NAME="Make migrate Coverage Results" MODIFIED="1588052731145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/todo" />
+  </component>
+</project>
